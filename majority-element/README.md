@@ -3,6 +3,6 @@
 - Difficulty: Easy
 - LeetCode problem: https://leetcode.com/problems/majority-element/
 - Language: java
-- Runtime: 8
-- Memory: 55788000
-- Solved: 2025-12-21
+- Runtime: 7
+- Memory: 62936000
+- Solved: 2026-10-30
